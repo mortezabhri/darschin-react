@@ -20,7 +20,7 @@ A lightweight, mobile-first study app designed for students—built entirely wit
 
 ### 📖 Tutorial
 
-**See in [Dars Chin FAQ](https://dars-chin.mbahri.ir)**
+**See in [Dars Chin FAQ](https://dars-chin.mbahri.ir/faq)**
 
 
 
