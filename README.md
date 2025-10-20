@@ -2,6 +2,7 @@
  
 A lightweight, mobile-first study app designed for students—built entirely with React + Tailwind. Perfect for school projects, university assignments, or just keeping your learning organized.
 
+
 ### ✨ Key Features
 
 * **Pure Frontend**: Crafted from scratch, no backend or special database required.
